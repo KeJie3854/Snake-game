@@ -1,0 +1,6 @@
+{
+  "name": "Neon Arcade Snake",
+  "description": "A high-performance dark modern arcade Snake game built with HTML5 Canvas, Web Audio API, and zero external dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
